@@ -7,7 +7,7 @@
 </p>
 
 ## About This Project
-UNotes is a small note-taking software, which can be installed locally to take offline notes. I made this with html, css, a bit of JavaScript, PHP &amp; mySQL. The purpose of this project is to build a small note-taking website/software like Evernote using PHP (for the backend) and mySQL (for the databases) without building an actual application using programming languages like Java or Python. I've chosen PHP for this project, because I am learning that language at the moment.
+UNotes is a small note-taking software, which can be installed locally to take offline notes. I made this with html, css (Bootstrap!), a bit of JavaScript (Bootstrap too!), PHP &amp; mySQL. The purpose of this project is to build a small note-taking website/software like Evernote using PHP (for the backend) and mySQL (for the databases) without building an actual application using programming languages like Java or Python. I've chosen PHP for this project, because I am learning that language at the moment.
 
 ## Features
 <ul>
