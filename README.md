@@ -3,7 +3,8 @@
   <img alt="PICTURE logo" src="https://user-images.githubusercontent.com/18640201/56651894-563eff80-668a-11e9-9f90-905e0ff8e1ed.png" width="400">
   <img alt="PICTURE logo" src="https://user-images.githubusercontent.com/18640201/56652031-a322d600-668a-11e9-99d1-3648257ceb17.png" width="400">
   <img alt="PICTURE logo" src="https://user-images.githubusercontent.com/18640201/56652160-fac14180-668a-11e9-8b84-9f31cefc6dac.png" width="400">
-  <img alt="PICTURE logo" src="https://user-images.githubusercontent.com/18640201/56652220-25ab9580-668b-11e9-964a-b8214b89372f.png" width="400">
+  <img alt="PICTURE logo" src="https://user-images.githubusercontent.com/18640201/56652220-25ab9580-668b-11e9-964a-b8214b89372f.png" width="400"><br>
+  More screenshots <a href="https://github.com/Tonemon/UNotes/wiki/Screenshots">here</a>.
 </p>
 
 ## About This Project
