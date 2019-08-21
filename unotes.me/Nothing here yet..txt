@@ -1,0 +1,6 @@
+## Small TODO:
+- /premium --> Make a table with normal and premium options listed out.
+	- normal users 3 notebooks, premium users unlimited notebooks,
+	- normal users no tasks, premium users tasks, (add fa check or times)
+	- normal users no note sharing, premium users note sharing, (add fa check or times)
+	- etc.

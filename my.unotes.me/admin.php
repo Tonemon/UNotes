@@ -103,7 +103,7 @@ if(!isset($_SESSION['user_login']))
 					<form action="admin-edit" method="POST">
 						<table class="mx-3">
 							<tr>
-								<td>Full Name</td>
+								<td>Full Name &nbsp;</td>
 								<td><input type="text" class="form-control" name="newuser_name" required="required" /></td>
 							</tr>
 							<tr>
@@ -113,8 +113,8 @@ if(!isset($_SESSION['user_login']))
 							<tr>
 								<td>Gender</td>
 								<td>
-									Male <input type="radio" name="newuser_gender" value="M" required="required" /> <b>or</b>
-									Female <input type="radio" name="newuser_gender" value="F" />
+									<input type="radio" name="newuser_gender" value="M" required="required" /> Male<br>
+									<input type="radio" name="newuser_gender" value="F" /> Female
 								</td>
 							</tr>
 							<tr>
@@ -122,7 +122,7 @@ if(!isset($_SESSION['user_login']))
 								<td><input type="date" class="form-control" name="newuser_dob" required="required" /></td>
 							</tr>
 							<tr>
-								<td>Account type &nbsp;</td>
+								<td>Account</td>
 								<td>
 									<select class="form-control" name="newuser_account" required="required" >
 										<option value="normal">Normal User</option>
