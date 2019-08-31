@@ -40,11 +40,11 @@ If you want to install this project locally, please follow the following steps:
 1. Download the latest version of this project (by using the 'Clone' option or the 'download from cloud' button on this page).
 2. Make sure your system has apache, php and mysql installed (I'm using AMPPS because it has them all in one place).
 3. Extract the two main folders (domains) called ```unotes.me``` and ```my.unotes.me``` to your localhost folder.
-3. For optimal performance (and easier access) add the two entries below to your ```.host``` file:<br>
+3. For optimal performance (and easier access) add the two entries below to your ```.hosts``` file:<br>
 (This will let you use a custom url instead of ```localhost/unotes.me``` and ```localhost/my.unotes.me```)
 <pre>127.0.0.1 unotes.me
 127.0.0.1 my.unotes.me</pre>
-4. Go to your PHPMyAdmin configuration (default: ```http://localhost/phpmyadmin/```) and add 2 new databases (called ```UNotesDAT``` and ```UNotesMAIN```) and add a user (called ```UNotesDAT```).<br>
+4. Go to your PHPMyAdmin configuration (default: ```http://localhost/phpmyadmin/```) and add 2 new databases (called ```UNotesDAT``` and ```UNotesMAIN```) and add a user (called ```UNotes``` with password ```UNotes```).<br>
 For more information about the PHP connections and the password configuration go to the ```_inc/dbconn.php``` file.
 5. Import the ```UNotesDAT.sql``` file to the 'UNotesDAT' database.
 6. Import the ```UNotesMAIN.sql``` file to the 'UNotesMAIN' database.
